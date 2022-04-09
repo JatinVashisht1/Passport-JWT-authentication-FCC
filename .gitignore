@@ -1,0 +1,4 @@
+/express-jwt-authentication-starter/node_modules/
+/express-jwt-authentication-starter/angular/node_modules/
+/express-jwt-authentication-starter/.env
+/express-jwt-authentication-starter/id_rsa_priv.pem
