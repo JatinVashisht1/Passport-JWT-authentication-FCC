@@ -24,7 +24,7 @@
 ![client-server-interaction](/assets/client-server-interaction.png)
 
 ## Password Validation Process
-![password-validation-process](/Chapter6_Intro_to_passport_JWT_authentication/assets/password-validation-process.png)
+![password-validation-process](/assets/password-validation-process.png)
 
 ## Ways to implement JWT authentication in our app
 ### Most Complext
