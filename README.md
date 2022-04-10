@@ -1,5 +1,6 @@
 # Passport with JWT
 - click [here](https://jwt.io/) to know more about JWT
+- click [here](https://www.passportjs.org/packages/passport-jwt/) to learn more about passport-jwt
 ## Structure of JWT
 - Header
 - Payload
